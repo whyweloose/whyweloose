@@ -26,7 +26,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Обо мне
 
 ```yaml
-Имя:         whyveloose
+Имя:         whyweloose
 Возраст:     19
 Город:       Москва
 Стек:        PHP, Java, Node.js
