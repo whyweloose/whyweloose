@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="raccoon.png" width="100%" alt="Raccoon Banner" />
+
 # 👋 Привет, я whyweloose
 
 ### 19 лет · Москва · Backend & Plugin Developer
