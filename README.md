@@ -17,9 +17,9 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@whyveloose-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/whyweloose)
+[![Telegram](https://img.shields.io/badge/Telegram-@whyweloose-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/whyweloose)
 [![VK](https://img.shields.io/badge/VK-onewearf-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/onewearf)
-[![Email](https://img.shields.io/badge/Email-abuse@whyveloose.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuse@whyweloose.ru)
+[![Email](https://img.shields.io/badge/Email-abuse@whyweloose.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuse@whyweloose.ru)
 
 </div>
 
