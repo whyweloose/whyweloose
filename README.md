@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="IMG_5468.jpeg" width="100%" alt="Raccoon Banner" />
+<img src="IMG_5474.jpeg" width="100%" alt="Raccoon Banner" />
 
 # 👋 Привет, я whyweloose
 
