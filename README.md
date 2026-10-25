@@ -31,6 +31,7 @@
 Город:       Москва
 Стек:        PHP, Java, Node.js
 ИИ:          Claude, GPT
+site:         https://whyweloose.pw/
 ```
 
 🛠️  Чем занимаюсь
